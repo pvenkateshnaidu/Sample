@@ -1,0 +1,19 @@
+.bg-dark {
+    background-color: #1961a9!important;
+}
+.h-100 {
+    height: 100%!important;
+}
+.marginT60 {
+    margin-top: 60px;
+}
+footer{
+    background-color: #000;
+}
+.marginB30{
+    margin-bottom: 30px;
+}
+.error{
+    color: red;
+    display: none;
+}
